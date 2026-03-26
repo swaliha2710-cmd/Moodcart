@@ -1,0 +1,3 @@
+﻿,Model,R² Score
+0,LinearRegression,0.6447
+1,RandomForestRegressor,0.6452
